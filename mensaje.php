@@ -1,0 +1,3 @@
+<?php
+	pront "hola";
+?>
